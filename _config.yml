@@ -1,11 +1,10 @@
 # Site settings
-title: "Fred Egbuedike — AI Lecturer"
+title: "Fred Egbuedike — AI Teaching & Research Portfolio"
 email: fredilly@gmail.com
 description: >
-  M.Sc. Information Security, Southwest Jiaotong University. AI and machine learning
-  practitioner, Kaggle competitor, and experienced educator. Founder of Chengdu's
-  early AI meetup (2015–2018). Seeking AI teaching and research position at Jilin
-  International Studies University, Changchun.
+  M.Sc. Information Security, AI and machine learning practitioner, and experienced
+  educator with 10+ years of teaching and training experience in China. AI Teaching
+  & Research Portfolio prepared for Jilin International Studies University.
 baseurl: "/ai-lecturer"
 url: "https://fredilly.github.io"
 github_username: Fredilly
